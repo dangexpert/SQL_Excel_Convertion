@@ -1,3 +1,5 @@
+#Not the cleanest code, but I'll optimize it to work with a GUI
+
 import pyodbc
 import pandas as pd
 import openpyxl
